@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Home",
+    "demo": "Demo"
+  },
+  "menu": {
+    "home": "Home",
+    "about": "About"
+  },
+  "about": {
+    "title": "About us",
+    "description": "This is about page"
+  }
+}

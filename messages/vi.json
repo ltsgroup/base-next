@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Trang chủ",
+    "demo": "Đây là bản demo cho nextjs"
+  },
+  "menu": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "description": "Đây là trang về chúng tôi"
+  }
+}
